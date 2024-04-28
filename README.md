@@ -1,10 +1,16 @@
 一、结构说明
 ├── src/main/java // API 接口
-│ ├── bean 
+
+│ ├── bean
+
 │ │ ├──// API接口需要使用到的一些数据实体
+
 │ ├── constant
+
 │ │ ├──// API接口的常量（例如URL、appKey等）
+
 │ └── API接口的关键逻辑Demo
+
 ├── README.md
 
 二、Demo说明
